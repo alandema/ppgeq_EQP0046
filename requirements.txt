@@ -1,0 +1,3 @@
+pykan==0.0.5
+sympy==1.12.1
+torchvision==0.18.1
